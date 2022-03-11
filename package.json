@@ -11,6 +11,7 @@
   "dependencies": {
     "cli-progress": "^3.10.0",
     "fs": "0.0.1-security",
+    "node-fetch": "^2.6.7",
     "node-fetch-retry": "^2.0.0"
   }
 }
