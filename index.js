@@ -1,5 +1,5 @@
 const fs = require('fs');
-const fetch = require('node-fetch');
+const fetch = require('node-fetch-retry');
 const cliProgress = require('cli-progress');
 const bar1 = new cliProgress.SingleBar({stopOnComplete: true}, cliProgress.Presets.shades_classic);
 
@@ -48,7 +48,7 @@ function downloadImage(download, newName){
         imageURL = 'https://raw.communitydragon.org/latest/game/data/characters/qiyana/hud/icons2d/'+trim[1].toLowerCase();
     }
     
-    fetch(imageURL)
+    fetch(imageURL,{retry:3})
     .then(async res => {
         res.body.pipe(fs.createWriteStream('./image/'+newName));
         await bar1.increment();
