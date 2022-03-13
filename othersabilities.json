@@ -1,0 +1,1544 @@
+[
+    {
+        "id":226,
+        "name":"Aatrox",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/aatrox/hud/icons2d/aatrox_q2.png"
+            },
+            {
+                "spellKey": "q3",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/aatrox/hud/icons2d/aatrox_q3.png"
+            }
+        ]
+    },
+    {
+        "id":103,
+        "name":"Ahri",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/ahri/hud/icons2d/ahri_souleater.png"
+            }
+        ]
+    },
+    {
+        "id":84,
+        "name":"Akali",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/akali/hud/icons2d/akali_q2.png"
+            },
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/akali/hud/icons2d/akali_e2.png"
+            },
+            {
+                "spellKey": "r2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/akali/hud/icons2d/akali_r2.png"
+            }
+        ]
+    },
+    {
+        "id":166,
+        "name":"Akshan",
+        "spells": [
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/akshan/hud/icons2d/akshan_e2.akshan.png"
+            }
+        ]
+    },
+    {
+        "id":12,
+        "name":"Alistar",
+        "spells": [
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/alistar/hud/icons2d/alistar_e_cooldown.png"
+            }
+        ]
+    },
+    {
+        "id":34,
+        "name":"Anivia",
+        "spells": [
+            {
+                "spellKey": "p2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/anivia/hud/icons2d/anivia_p_cd.png"
+            },
+            {
+                "spellKey": "p3",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/anivia/hud/icons2d/cryophoenix_rebirth_charging.png"
+            }
+        ]
+    },
+    {
+        "id":1,
+        "name":"Annie",
+        "spells": [
+            {
+                "spellKey": "p2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/annie/hud/icons2d/annie_passive2.png"
+            },
+            {
+                "spellKey": "r2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/annie/hud/icons2d/annie_r2.png"
+            }
+        ]
+    },
+    {
+        "id":523,
+        "name":"Aphelios",
+        "spells": [
+            {
+                "spellKey": "q_calibrum",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/aphelios/hud/icons2d/q_calibrum.png"
+            },
+            {
+                "spellKey": "q_crescendum",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/aphelios/hud/icons2d/q_crescendum.png"
+            },
+            {
+                "spellKey": "q_gravitum",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/aphelios/hud/icons2d/q_gravitum.png"
+            },
+            {
+                "spellKey": "q_infernum",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/aphelios/hud/icons2d/q_infernum.png"
+            },
+            {
+                "spellKey": "q_severum",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/aphelios/hud/icons2d/q_severum.png"
+            },
+            {
+                "spellKey": "calibrum",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/aphelios/hud/icons2d/calibrum_l.png"
+            },
+            {
+                "spellKey": "crescendum",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/aphelios/hud/icons2d/crescendum_l.png"
+            },
+            {
+                "spellKey": "gravitum",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/aphelios/hud/icons2d/gravitum_l.png"
+            },
+            {
+                "spellKey": "infernum",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/aphelios/hud/icons2d/infernum_l.png"
+            },
+            {
+                "spellKey": "severum",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/aphelios/hud/icons2d/severum_l.png"
+            }
+        ]
+    },
+    {
+        "id":22,
+        "name":"Ashe",
+        "spells": [
+            {
+                "spellKey": "p2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/ashe/hud/icons2d/ashe_p_debuff.png"
+            },
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/ashe/hud/icons2d/ashe_q_active.png"
+            }
+        ]
+    },
+    {
+        "id":136,
+        "name":"Aurelion Sol",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/aurelionsol/hud/icons2d/aurelionsol_q_explode.png"
+            },
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/aurelionsol/hud/icons2d/aurelionsol_w_starsin.png"
+            },
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/aurelionsol/hud/icons2d/aurelionsol_e_land.png"
+            }
+        ]
+    },
+    {
+        "id":268,
+        "name":"Azir",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/azir/hud/icons2d/azir_q_gray.png"
+            },
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/azir/hud/icons2d/azir_e_gray.png"
+            }
+        ]
+    },
+    {
+        "id":432,
+        "name":"Bard",
+        "spells": [
+            {
+                "spellKey": "meeps",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/bard/hud/icons2d/bard_meeps.png"
+            },
+            {
+                "spellKey": "meeps2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/bard/hud/icons2d/bard_meeps_recharging.png"
+            },
+            {
+                "spellKey": "p2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/bard/hud/icons2d/bard_passive_requiredfornext.png"
+            }
+        ]
+    },
+    {
+        "id":53,
+        "name":"Blitzcrank",
+        "spells": [
+            {
+                "spellKey": "p2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/blitzcrank/hud/icons2d/blitzcrank_manabarriercd.png"
+            }
+        ]
+    },
+    {
+        "id":63,
+        "name":"Brand",
+        "spells": [
+            
+        ]
+    },
+    {
+        "id":51,
+        "name":"Caitlyn",
+        "spells": [
+            {
+                "spellKey": "p2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/caitlyn/hud/icons2d/caitlyn_headshotgrey.png"
+            }
+        ]
+    },
+    {
+        "id":164,
+        "name":"Camille",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/camille/hud/icons2d/camille_q2.png"
+            },
+            {
+                "spellKey": "q3",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/camille/hud/icons2d/camille_q3.png"
+            },
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/camille/hud/icons2d/camille_e2.png"
+            }
+        ]
+    },
+    {
+        "id":42,
+        "name":"Corki",
+        "spells": [
+            {
+                "spellKey": "r2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/corki/hud/icons2d/corki_r_bigone.png"
+            },
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/corki/hud/icons2d/corki_valkyrie_mega.png"
+            },
+            {
+                "spellKey": "package",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/corki/hud/icons2d/corki_thepackage.png"
+            }
+        ]
+    },
+    {
+        "id":122,
+        "name":"Darius",
+        "spells": [
+            {
+                "spellKey": "p2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/darius/hud/icons2d/darius_passivebuff.png"
+            }
+        ]
+    },
+    {
+        "id":131,
+        "name":"Diana",
+        "spells": [
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/diana/hud/icons2d/diana_lunarshower_invert.png"
+            }
+        ]
+    },
+    {
+        "id":119,
+        "name":"Draven",
+        "spells": [
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/draven/hud/icons2d/draven_whirlingdeath_recall.png"
+            }
+        ]
+    },
+    {
+        "id":36,
+        "name":"Dr. Mundo",
+        "spells": [
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/drmundo/hud/icons2d/drmundo_w2.dr_mundo_vgu.png"
+            }
+        ]
+    },
+    {
+        "id":245,
+        "name":"Ekko",
+        "spells": [
+            {
+                "spellKey": "p2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/ekko/hud/icons2d/ekko_p2.png"
+            }
+        ]
+    },
+    {
+        "id":60,
+        "name":"Elise",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/elise/hud/icons2d/elisespiderq.png"
+            },
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/elise/hud/icons2d/elisespiderw.png"
+            },
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/elise/hud/icons2d/elisespidere.png"
+            }
+        ]
+    },
+    {
+        "id":28,
+        "name":"Evelynn",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/evelynn/hud/icons2d/evelynn_q2.png"
+            },
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/evelynn/hud/icons2d/evelynn_e2.png"
+            },
+            {
+                "spellKey": "e3",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/evelynn/hud/icons2d/evelynn_e_passive.png"
+            }
+        ]
+    },
+    {
+        "id":9,
+        "name":"Fiddlesticks",
+        "spells": [
+            {
+                "spellKey": "p2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/fiddlesticks/hud/icons2d/fiddlesticksp2.png"
+            },
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/fiddlesticks/hud/icons2d/fiddlesticksq2.png"
+            },
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/fiddlesticks/hud/icons2d/fiddlesticksw2.png"
+            },
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/fiddlesticks/hud/icons2d/fiddlestickse2.png"
+            },
+            {
+                "spellKey": "r2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/fiddlesticks/hud/icons2d/fiddlesticksr2.png"
+            }
+        ]
+    },
+    {
+        "id":105,
+        "name":"Fizz",
+        "spells": [
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/fizz/hud/icons2d/fizz_e2.png"
+            }
+        ]
+    },
+    {
+        "id":41,
+        "name":"Gangplank",
+        "spells": [
+            {
+                "spellKey": "coin",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/gangplank/hud/icons2d/gangplank_coin.png"
+            },
+            {
+                "spellKey": "r2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/gangplank/hud/icons2d/3902_gangplankr2.png"
+            },
+            {
+                "spellKey": "r3",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/gangplank/hud/icons2d/3902_gangplankr3.png"
+            }
+        ]
+    },
+    {
+        "id":86,
+        "name":"Garen",
+        "spells": [
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/garen/hud/icons2d/garen_e2.png"
+            }
+        ]
+    },
+    {
+        "id":86,
+        "name":"Garen",
+        "spells": [
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/garen/hud/icons2d/garen_e2.png"
+            }
+        ]
+    },
+    {
+        "id":150,
+        "name":"Gnar",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/gnar/hud/icons2d/gnarbig_q.png"
+            },
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/gnar/hud/icons2d/gnarbig_w.png"
+            },
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/gnar/hud/icons2d/gnarbig_e.png"
+            },
+            {
+                "spellKey": "r2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/gnar/hud/icons2d/gnar_r_grey.png"
+            }
+            
+        ]
+    },
+    {
+        "id":79,
+        "name":"Gragas",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/gragas/hud/icons2d/gragasqcrit.png"
+            },
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/gragas/hud/icons2d/gragasdrunkenrageattack.png"
+            }
+        ]
+    },
+    {
+        "id":887,
+        "name":"Gwen",
+        "spells": [
+            {
+                "spellKey": "r2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/gwen/hud/icons2d/gwen_r2.gwen.png"
+            },
+            {
+                "spellKey": "r3",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/gwen/hud/icons2d/gwen_r3.gwen.png"
+            }
+        ]
+    },
+    {
+        "id":74,
+        "name":"Heimerdinger",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/heimerdinger/hud/icons2d/heimerdinger_q2.png"
+            },
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/heimerdinger/hud/icons2d/heimerdinger_w2.png"
+            },
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/heimerdinger/hud/icons2d/heimerdinger_e2.png"
+            }
+        ]
+    },
+    {
+        "id":39,
+        "name":"Irelia",
+        "spells": [
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/irelia/hud/icons2d/irelia_e2.png"
+            }
+        ]
+    },
+    {
+        "id":427,
+        "name":"Ivern",
+        "spells": [
+            {
+                "spellKey": "r2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/ivern/hud/icons2d/ivernr2.png"
+            }
+        ]
+    },
+    {
+        "id":126,
+        "name":"Jayce",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/jayce/hud/icons2d/jayce_shotblast.png"
+            },
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/jayce/hud/icons2d/jayce_hypercharge.png"
+            },
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/jayce/hud/icons2d/jayce_accelerationgate.png"
+            },
+            {
+                "spellKey": "r2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/jayce/hud/icons2d/jayce_transformhammer.png"
+            }
+        ]
+    },
+    {
+        "id":202,
+        "name":"Jhin",
+        "spells": [
+            {
+                "spellKey": "r2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/jhin/hud/icons2d/jhin_r_shot.png"
+            },
+            {
+                "spellKey": "r3",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/jhin/hud/icons2d/jhin_r_shot4.png"
+            }
+        ]
+    },
+    {
+        "id":222,
+        "name":"Jinx",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/jinx/hud/icons2d/jinx_q2.png"
+            }
+        ]
+    },
+    {
+        "id":145,
+        "name":"Kai'Sa",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kaisa/hud/icons2d/kaisa_q2.png"
+            },
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kaisa/hud/icons2d/kaisa_w2.png"
+            },
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kaisa/hud/icons2d/kaisa_e2.png"
+            }
+        ]
+    },
+    {
+        "id":429,
+        "name":"Kalista",
+        "spells": [
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kalista/hud/icons2d/kalista_w_grey.png"
+            },
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kalista/hud/icons2d/kalista_e_off.png"
+            }
+        ]
+    },
+    {
+        "id":43,
+        "name":"Karma",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/karma/hud/icons2d/karma_q2.png"
+            },
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/karma/hud/icons2d/karma_w2.png"
+            },
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/karma/hud/icons2d/karma_e2.png"
+            }
+        ]
+    },
+    {
+        "id":30,
+        "name":"Karthus",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/karthus/hud/icons2d/karthus_q_oncooldown.png"
+            }
+        ]
+    },
+    {
+        "id":30,
+        "name":"Karthus",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/karthus/hud/icons2d/karthus_q_oncooldown.png"
+            }
+        ]
+    },
+    {
+        "id":38,
+        "name":"Kassadin",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kassadin/hud/icons2d/kassadin_e_charging.png"
+            }
+        ]
+    },
+    {
+        "id":38,
+        "name":"Kassadin",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kassadin/hud/icons2d/kassadin_e_charging.png"
+            }
+        ]
+    },
+    {
+        "id":55,
+        "name":"Katarina",
+        "spells": [
+            {
+                "spellKey": "r2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/katarina/hud/icons2d/katarina_r_cannotcast.png"
+            },
+            {
+                "spellKey": "r3",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/katarina/hud/icons2d/katarina_daggerspin.png"
+            }
+        ]
+    },
+    {
+        "id":10,
+        "name":"Kayle",
+        "spells": [
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kayle/hud/icons2d/kayle_e2.png"
+            }
+        ]
+    },
+    {
+        "id":141,
+        "name":"Kayn",
+        "spells": [
+            {
+                "spellKey": "assassin_P",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kayn/hud/icons2d/kayn_passive_ass.png"
+            },
+            {
+                "spellKey": "assassin_Q",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kayn/hud/icons2d/kayn_q_ass.png"
+            },
+            {
+                "spellKey": "assassin_W",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kayn/hud/icons2d/kayn_w_ass.png"
+            },
+            {
+                "spellKey": "assassin_E",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kayn/hud/icons2d/kayn_e_ass.png"
+            },
+            {
+                "spellKey": "assassin_R1",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kayn/hud/icons2d/kayn_r1_primary.png"
+            },
+            {
+                "spellKey": "assassin_R2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kayn/hud/icons2d/kayn_r2_primary.png"
+            },
+            {
+                "spellKey": "rhaast_P",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kayn/hud/icons2d/kayn_p_slay.png"
+            },
+            {
+                "spellKey": "rhaast_Q",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kayn/hud/icons2d/kayn_q_slay.png"
+            },
+            {
+                "spellKey": "rhaast_W",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kayn/hud/icons2d/kayn_w_slay.png"
+            },
+            {
+                "spellKey": "rhaast_E",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kayn/hud/icons2d/kayn_e_slay.png"
+            },
+            {
+                "spellKey": "rhaast_R1",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kayn/hud/icons2d/kayn_r1_slay.png"
+            },
+            {
+                "spellKey": "rhaast_R2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kayn/hud/icons2d/kayn_r2_slay.png"
+            }
+        ]
+    },
+    {
+        "id":85,
+        "name":"Kennen",
+        "spells": [
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kennen/hud/icons2d/kennen_w_charging.png"
+            }
+        ]
+    },
+    {
+        "id":121,
+        "name":"Kha'Zix",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/khazix/hud/icons2d/khazix_q_red.png"
+            },
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/khazix/hud/icons2d/khazix_w_red.png"
+            },
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/khazix/hud/icons2d/khazix_e_red.png"
+            },
+            {
+                "spellKey": "r2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/khazix/hud/icons2d/khazix_r_red.png"
+            }
+        ]
+    },
+    {
+        "id":240,
+        "name":"Kled",
+        "spells": [
+            {
+                "spellKey": "p2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/characters/kled/hud/icons2d/kled_p2.png"
+            },
+            {
+                "spellKey": "p3",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/characters/kled/hud/icons2d/kled_p_cooldown.png"
+            },
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/characters/kled/hud/icons2d/kled_q1.png"
+            },
+            {
+                "spellKey": "q3",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/characters/kled/hud/icons2d/kled_q2.png"
+            },
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/characters/kled/hud/icons2d/kled_e2.png"
+            },
+            {
+                "spellKey": "e3",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/characters/kled/hud/icons2d/kled_e_grey.png"
+            },
+            {
+                "spellKey": "r2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/characters/kled/hud/icons2d/kled_r_grey.png"
+            }
+        ]
+    },
+    {
+        "id":7,
+        "name":"LeBlanc",
+        "spells": [
+            {
+                "spellKey": "p2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/leblanc/hud/icons2d/leblancpcooldown.png"
+            },
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/leblanc/hud/icons2d/leblancwreturn.png"
+            },
+            {
+                "spellKey": "r2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/leblanc/hud/icons2d/leblancrq.png"
+            },
+            {
+                "spellKey": "r3",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/leblanc/hud/icons2d/leblancrwreturn.png"
+            },
+            {
+                "spellKey": "r4",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/leblanc/hud/icons2d/leblancrw.png"
+            },
+            {
+                "spellKey": "r5",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/leblanc/hud/icons2d/leblancre.png"
+            }
+        ]
+    },
+    {
+        "id":64,
+        "name":"Lee Sin",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/leesin/hud/icons2d/blindmonkqtwo.png"
+            },
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/leesin/hud/icons2d/blindmonkwtwo.png"
+            },
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/leesin/hud/icons2d/blindmonketwo.png"
+            }
+        ]
+    },
+    {
+        "id":54,
+        "name":"Malphite",
+        "spells": [
+            {
+                "spellKey": "p2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/malphite/hud/icons2d/malphite_graniteshield_grey.png"
+            }
+        ]
+    },
+    {
+        "id":57,
+        "name":"Maokai",
+        "spells": [
+            {
+                "spellKey": "p2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/maokai/hud/icons2d/maokai_passiveready.png"
+            }
+        ]
+    },
+    {
+        "id":11,
+        "name":"Master Yi",
+        "spells": [
+            {
+                "spellKey": "p2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/masteryi/hud/icons2d/masteryi_passive2.png"
+            },
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/masteryi/hud/icons2d/masteryi_e2.png"
+            }
+        ]
+    },
+    {
+        "id":62,
+        "name":"Wukong",
+        "spells": [
+            {
+                "spellKey": "r2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/monkeyking/hud/icons2d/monkeykingcyclone2.png"
+            },
+            {
+                "spellKey": "r3",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/monkeyking/hud/icons2d/monkeykingcyclonecancel.png"
+            }
+        ]
+    },
+    {
+        "id":82,
+        "name":"Mordekaiser",
+        "spells": [
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/mordekaiser/hud/icons2d/mordekaiserw2.png"
+            }
+        ]
+    },
+    {
+        "id":518,
+        "name":"Neeko",
+        "spells": [
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/neeko/hud/icons2d/neeko_w_passive.png"
+            },
+            {
+                "spellKey": "w3",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/neeko/hud/icons2d/neeko_w_passive_cd.png"
+            }
+        ]
+    },
+    {
+        "id":76,
+        "name":"Nidalee",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/nidalee/hud/icons2d/nidalee_q2.png"
+            },
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/nidalee/hud/icons2d/nidalee_w2.png"
+            },
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/nidalee/hud/icons2d/nidalee_e2.png"
+            },
+            {
+                "spellKey": "r2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/nidalee/hud/icons2d/nidalee_r2.png"
+            }
+        ]
+    },
+    {
+        "id":56,
+        "name":"Nocturne",
+        "spells": [
+            {
+                "spellKey": "p2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/nocturne/hud/icons2d/nocturne_umbrablades_grey.png"
+            }
+        ]
+    },
+    {
+        "id":20,
+        "name":"Nunu & Willump",
+        "spells": [
+            {
+                "spellKey": "p2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/nunu/hud/icons2d/nunuw2.png"
+            }
+        ]
+    },
+    {
+        "id":516,
+        "name":"Ornn",
+        "spells": [
+            {
+                "spellKey": "r2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/ornn/hud/icons2d/ornnr2.png"
+            }
+        ]
+    },
+    {
+        "id":80,
+        "name":"Pantheon",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/pantheon/hud/icons2d/pantheon_q2.png"
+            },
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/pantheon/hud/icons2d/pantheon_w2.png"
+            },
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/pantheon/hud/icons2d/pantheon_e2.png"
+            }
+        ]
+    },
+    {
+        "id":555,
+        "name":"Pyke",
+        "spells": [
+            {
+                "spellKey": "p2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/pyke/hud/icons2d/pykepassiveoff.png"
+            }
+        ]
+    },
+    {
+        "id":246,
+        "name":"Qiyana",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/v1/champion-ability-icons/qiyana_q2_blue.png"
+            },
+            {
+                "spellKey": "q3",
+                "abilityIconPath": "/lol-game-data/assets/v1/champion-ability-icons/qiyana_q2_green.png"
+            },
+            {
+                "spellKey": "q4",
+                "abilityIconPath": "/lol-game-data/assets/v1/champion-ability-icons/qiyana_q2_red.png"
+            },
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/v1/champion-ability-icons/qiyana_w2_blue.png"
+            },
+            {
+                "spellKey": "w3",
+                "abilityIconPath": "/lol-game-data/assets/v1/champion-ability-icons/qiyana_w2_green.png"
+            },
+            {
+                "spellKey": "w4",
+                "abilityIconPath": "/lol-game-data/assets/v1/champion-ability-icons/qiyana_w2_red.png"
+            }
+        ]
+    },
+    {
+        "id":133,
+        "name":"Quinn",
+        "spells": [
+            {
+                "spellKey": "r2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/quinn/hud/icons2d/quinn_r2.png"
+            }
+        ]
+    },
+    {
+        "id":497,
+        "name":"Rakan",
+        "spells": [
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/rakan/hud/icons2d/rakan_e2.png"
+            }
+        ]
+    },
+    {
+        "id":421,
+        "name":"Rek'Sai",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/reksai/hud/icons2d/reksai_q2.png"
+            },
+            {
+                "spellKey": "w",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/reksai/hud/icons2d/reksai_w2.png"
+            },
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/reksai/hud/icons2d/reksai_e2.png"
+            },
+            {
+                "spellKey": "e3",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/reksai/hud/icons2d/reksai_e2_cooldown.png"
+            }
+        ]
+    },
+    {
+        "id":526,
+        "name":"Rell",
+        "spells": [
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/rell/hud/icons2d/rellmount.darksupport.png"
+            }
+        ]
+    },
+    {
+        "id":888,
+        "name":"Renata Glasc",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/renata/hud/icons2d/renata_q2.renata.png"
+            }
+        ]
+    },
+    {
+        "id":58,
+        "name":"Renekton",
+        "spells": [
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/renekton/hud/icons2d/renekton_e2.png"
+            },
+            {
+                "spellKey": "e3",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/renekton/hud/icons2d/renekton_edelay.png"
+            }
+        ]
+    },
+    {
+        "id":107,
+        "name":"Rengar",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/rengar/hud/icons2d/rengar_q_emp.png"
+            },
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/rengar/hud/icons2d/rengar_w_emp.png"
+            },
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/rengar/hud/icons2d/rengar_e_emp.png"
+            }
+        ]
+    },
+    {
+        "id":92,
+        "name":"Riven",
+        "spells": [
+            {
+                "spellKey": "r2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/riven/hud/icons2d/rivenwindscar.png"
+            }
+        ]
+    },
+    {
+        "id":13,
+        "name":"Ryze",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/ryze/hud/icons2d/ryze_q_grey.png"
+            }
+        ]
+    },
+    {
+        "id":360,
+        "name":"Samira",
+        "spells": [
+            {
+                "spellKey": "style",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/samira/hud/icons2d/samirar1.samira.png"
+            },
+            {
+                "spellKey": "style_F",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/samira/hud/icons2d/samirar2.samira.png"
+            },
+            {
+                "spellKey": "style_E",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/samira/hud/icons2d/samirar3.samira.png"
+            },
+            {
+                "spellKey": "style_D",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/samira/hud/icons2d/samirar4.samira.png"
+            },
+            {
+                "spellKey": "style_C",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/samira/hud/icons2d/samirar5.samira.png"
+            },
+            {
+                "spellKey": "style_B",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/samira/hud/icons2d/samirar6.samira.png"
+            },
+            {
+                "spellKey": "style_A",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/samira/hud/icons2d/samirar7.samira.png"
+            },
+            {
+                "spellKey": "style_S",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/samira/hud/icons2d/samirar8.png"
+            }
+        ]
+    },
+    {
+        "id":113,
+        "name":"Sejuani",
+        "spells": [
+            {
+                "spellKey": "p2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/sejuani/hud/icons2d/sejuani_passive_cd.png"
+            },
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/sejuani/hud/icons2d/sejuani_e_stacks.png"
+            }
+        ]
+    },
+    {
+        "id":147,
+        "name":"Seraphine",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/seraphine/hud/icons2d/seraphine_q2.ellipsismage.png"
+            },
+            {
+                "spellKey": "q3",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/seraphine/hud/icons2d/seraphine_q3.ellipsismage.png"
+            },
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/seraphine/hud/icons2d/seraphine_w2.ellipsismage.png"
+            },
+            {
+                "spellKey": "w3",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/seraphine/hud/icons2d/seraphine_w3.ellipsismage.png"
+            },
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/seraphine/hud/icons2d/seraphine_e2.ellipsismage.png"
+            },
+            {
+                "spellKey": "e3",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/seraphine/hud/icons2d/seraphine_e3.ellipsismage.png"
+            }
+        ]
+    },
+    {
+        "id":35,
+        "name":"Shaco",
+        "spells": [
+            {
+                "spellKey": "r2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/shaco/hud/icons2d/jester_hallucinogenbomb_r.png"
+            }
+        ]
+    },
+    {
+        "id":27,
+        "name":"Singed",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/singed/hud/icons2d/singed_q_off.png"
+            }
+        ]
+    },
+    {
+        "id":14,
+        "name":"Sion",
+        "spells": [
+            {
+                "spellKey": "p2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/sion/hud/icons2d/sion_passive2.png"
+            },
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/sion/hud/icons2d/sion_w2.png"
+            },
+            {
+                "spellKey": "r2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/sion/hud/icons2d/sion_r2.png"
+            }
+        ]
+    },
+    {
+        "id":37,
+        "name":"Sona",
+        "spells": [
+            {
+                "spellKey": "p2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/sona/hud/icons2d/sona_passive.png"
+            }
+        ]
+    },
+    {
+        "id":50,
+        "name":"Swain",
+        "spells": [
+            {
+                "spellKey": "r2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/swain/hud/icons2d/swain_r_no_charge.png"
+            },
+            {
+                "spellKey": "r3",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/swain/hud/icons2d/swain_r2.png"
+            },
+            {
+                "spellKey": "r4",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/swain/hud/icons2d/swain_r2_no_charge.png"
+            }
+        ]
+    },
+    {
+        "id":517,
+        "name":"Sylas",
+        "spells": [
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/sylas/hud/icons2d/sylase2.png"
+            }
+        ]
+    },
+    {
+        "id":134,
+        "name":"Syndra",
+        "spells": [
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/syndra/hud/icons2d/syndraw2.png"
+            }
+        ]
+    },
+    {
+        "id":223,
+        "name":"Tahm Kench",
+        "spells": [
+            {
+                "spellKey": "r2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/tahmkench/hud/icons2d/tahmkenchr2.png"
+            }
+        ]
+    },
+    {
+        "id":163,
+        "name":"Taliyah",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/taliyah/hud/icons2d/taliyah_q2.png"
+            },
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/taliyah/hud/icons2d/taliyah_w2.png"
+            },
+            {
+                "spellKey": "r2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/taliyah/hud/icons2d/taliyah_r2.png"
+            }
+        ]
+    },
+    {
+        "id":44,
+        "name":"Taric",
+        "spells": [
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/taric/hud/icons2d/taric_w2.png"
+            }
+        ]
+    },
+    {
+        "id":17,
+        "name":"Teemo",
+        "spells": [
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/teemo/hud/icons2d/teemo_w_grey.png"
+            }
+        ]
+    },
+    {
+        "id":412,
+        "name":"Thresh",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/thresh/hud/icons2d/thresh_q3.png"
+            }
+        ]
+    },
+    {
+        "id":4,
+        "name":"Twisted Fate",
+        "spells": [
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/twistedfate/hud/icons2d/cardmaster_blue.png"
+            },
+            {
+                "spellKey": "w3",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/twistedfate/hud/icons2d/cardmaster_red.png"
+            },
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/twistedfate/hud/icons2d/cardmaster_rapidtoss_charging.png"
+            }
+        ]
+    },
+    {
+        "id":6,
+        "name":"Urgot",
+        "spells": [
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/urgot/hud/icons2d/urgot_wcancel.png"
+            },
+            {
+                "spellKey": "r2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/urgot/hud/icons2d/urgot_rrecast.png"
+            },
+            {
+                "spellKey": "r3",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/urgot/hud/icons2d/urgot_rrecast_grey.png"
+            }
+        ]
+    },
+    {
+        "id":110,
+        "name":"Varus",
+        "spells": [
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/varus/hud/icons2d/varusw2.png"
+            }
+        ]
+    },
+    {
+        "id":161,
+        "name":"Vel'Koz",
+        "spells": [
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/velkoz/hud/icons2d/velkoz_q2.png"
+            }
+        ]
+    },
+    {
+        "id":711,
+        "name":"Vex",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/vex/hud/icons2d/icons_vex_q02.s_yordle.png"
+            },
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/vex/hud/icons2d/icons_vex_w02.s_yordle.png"
+            },
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/vex/hud/icons2d/icons_vex_e02.s_yordle.png"
+            },
+            {
+                "spellKey": "r2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/vex/hud/icons2d/icons_vex_r02.s_yordle.png"
+            }
+        ]
+    },
+    {
+        "id":112,
+        "name":"Viktor",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/viktor/hud/icons2d/viktor_q2.png"
+            },
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/viktor/hud/icons2d/viktor_w2.png"
+            },
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/viktor/hud/icons2d/viktor_e2.png"
+            },
+            {
+                "spellKey": "r2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/viktor/hud/icons2d/viktor_r2.png"
+            },
+            {
+                "spellKey": "r3",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/viktor/hud/icons2d/viktor_r_guide.png"
+            }
+        ]
+    },
+    {
+        "id":157,
+        "name":"Yasuo",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/yasuo/hud/icons2d/yasuo_q2.png"
+            },
+            {
+                "spellKey": "q3",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/yasuo/hud/icons2d/yasuo_q3.png"
+            },
+            {
+                "spellKey": "r2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/yasuo/hud/icons2d/yasuo_r_grey.png"
+            }
+        ]
+    },
+    {
+        "id":777,
+        "name":"Yone",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/yone/hud/icons2d/yoneq3.yone.png"
+            },
+            {
+                "spellKey": "e2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/yone/hud/icons2d/yonee2.yone.png"
+            }
+        ]
+    },
+    {
+        "id":350,
+        "name":"Yuumi",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/yuumi/hud/icons2d/yuumiq2.png"
+            },
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/yuumi/hud/icons2d/yuumiw2.png"
+            }
+        ]
+    },
+    {
+        "id":221,
+        "name":"Zeri",
+        "spells": [
+            {
+                "spellKey": "p2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/zeri/hud/icons2d/zeriqpassivecharged.zeri.png"
+            }
+        ]
+    },
+    {
+        "id":26,
+        "name":"Zilean",
+        "spells": [
+            {
+                "spellKey": "w2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/zilean/hud/icons2d/zilean_w_disabled.png"
+            }
+        ]
+    },
+    {
+        "id":142,
+        "name":"Zoe",
+        "spells": [
+            {
+                "spellKey": "q2",
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/zoe/hud/icons2d/zoe_q2.png"
+            }
+        ]
+    }
+]

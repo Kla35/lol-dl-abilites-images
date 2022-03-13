@@ -7,10 +7,15 @@ const bar1 = new cliProgress.SingleBar({stopOnComplete: true}, cliProgress.Prese
     fs.mkdirSync('./image', { recursive: true })
     versionCDN = await getActualVersion();
     const champions = await championsData();
-    bar1.start(Object.keys(champions).length*5, 0);
+    const championPerso = await getChampionDataPerso();
+    let countOthersAbilities = 0;
+    championPerso.forEach(champion => {
+        countOthersAbilities += champion.spells.length;
+    })
+    bar1.start((Object.keys(champions).length*5+countOthersAbilities), 0);
     Object.keys(champions).forEach(async function(k){
         let actualChampion = champions[k];
-        let championName = actualChampion.name;
+        let championName = trimChampionName(actualChampion.name);
         let championData = await getChampionDataById(actualChampion["key"]);
         
         championData.spells.forEach(spell => {
@@ -23,11 +28,58 @@ const bar1 = new cliProgress.SingleBar({stopOnComplete: true}, cliProgress.Prese
         downloadImage(championData.passive.abilityIconPath,newName);
     });
 
+    championPerso.forEach(champion => {
+        let championName = trimChampionName(champion.name);
+        champion.spells.forEach(spell => {
+            let spellKey = defineSpellKey(spell["spellKey"].toUpperCase());
+            let newName = championName+'_'+spellKey+".png";
+            downloadImage(spell.abilityIconPath,newName);
+        })
+    })
+
     // setInterval() check every second if everything is finish
 })();
 
+function trimChampionName(name){
+    
+    let returnStr = name.replace("'","");
+    returnStr = returnStr.replace(".","");
+    returnStr = returnStr.replace("&","");
+    returnStr = returnStr.replace(" ","");
+    returnStr = returnStr.replace(" ","");
+
+    return returnStr;
+}
+
 function defineSpellKey(str){
+    //Attention, dans le cas du JSON person, la passive doit être prise en compte
     switch(str){
+        case "P2":
+            return "Passif_2";
+        case "P3":
+            return "Passif_3";
+        case "Q2":
+            return "A_2";
+        case "Q3":
+            return "A_3";
+        case "Q4":
+            return "A_4";
+        case "W2":
+            return "Z_2";
+        case "W3":
+            return "Z_3";
+        case "E2":
+            return "E_2";
+        case "E3":
+            return "E_3";
+        case "R2":
+            return "R_2";
+        case "R3":
+            return "R_3";
+        case "R4":
+            return "R_4";
+        case "R5":
+            return "R_5";
         case "Q":
             return "A";
         case "W":
@@ -57,20 +109,26 @@ function downloadImage(download, newName){
 }
 
 async function getChampionDataById(id){
-    const response = await fetch('https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/'+id+'.json');
+    const response = await fetch('https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/'+id+'.json',{retry:3});
     const jsonChampion = await response.json();
     return jsonChampion;
 }
 
 async function championsData(){
-    const response = await fetch('https://ddragon.leagueoflegends.com/cdn/'+versionCDN+'/data/en_US/champion.json');
+    const response = await fetch('https://ddragon.leagueoflegends.com/cdn/'+versionCDN+'/data/en_US/champion.json',{retry:3});
     const jsonChampion = await response.json();
     var data = jsonChampion.data;
     return data;
 }
 
 async function getActualVersion(){
-    const response = await fetch('https://ddragon.leagueoflegends.com/api/versions.json');
+    const response = await fetch('https://ddragon.leagueoflegends.com/api/versions.json',{retry:3});
     const jsonVersion = await response.json();
     return jsonVersion[0];
+}
+
+async function getChampionDataPerso(){
+    const response = await fetch('https://quenouillere.fr/league/othersabilities.json',{retry:3});
+    const data = await response.json();
+    return data;
 }
