@@ -2,12 +2,12 @@ const fs = require('fs');
 const fetch = require('node-fetch-retry');
 const cliProgress = require('cli-progress');
 const bar1 = new cliProgress.SingleBar({stopOnComplete: true}, cliProgress.Presets.shades_classic);
-const championPerso = require('./othersabilities.json');
 
 (async () => {
     fs.mkdirSync('./image', { recursive: true })
     versionCDN = await getActualVersion();
     const champions = await championsData();
+    const championPerso = await getChampionDataPerso();
     let countOthersAbilities = 0;
     championPerso.forEach(champion => {
         countOthersAbilities += champion.spells.length;
@@ -62,10 +62,12 @@ function defineSpellKey(str){
             return "A_2";
         case "Q3":
             return "A_3";
+        case "Q4":
+            return "A_4";
         case "W2":
-            return "W_2";
+            return "Z_2";
         case "W3":
-            return "W_3";
+            return "Z_3";
         case "E2":
             return "E_2";
         case "E3":
@@ -123,4 +125,10 @@ async function getActualVersion(){
     const response = await fetch('https://ddragon.leagueoflegends.com/api/versions.json',{retry:3});
     const jsonVersion = await response.json();
     return jsonVersion[0];
+}
+
+async function getChampionDataPerso(){
+    const response = await fetch('https://quenouillere.fr/league/othersabilities.json',{retry:3});
+    const data = await response.json();
+    return data;
 }
