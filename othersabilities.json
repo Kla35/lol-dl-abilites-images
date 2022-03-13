@@ -398,7 +398,7 @@
             },
             {
                 "spellKey": "r3",
-                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/gangplank/hud/icons2d/3902_gangplankr3.png"
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/gangplank/hud/icons2d/3903_gangplankr3.png"
             }
         ]
     },
@@ -701,7 +701,7 @@
             },
             {
                 "spellKey": "rhaast_P",
-                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kayn/hud/icons2d/kayn_p_slay.png"
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kayn/hud/icons2d/kayn_passive_slay.png"
             },
             {
                 "spellKey": "rhaast_Q",
@@ -763,31 +763,31 @@
         "spells": [
             {
                 "spellKey": "p2",
-                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/characters/kled/hud/icons2d/kled_p2.png"
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kled/hud/icons2d/kled_p2.png"
             },
             {
                 "spellKey": "p3",
-                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/characters/kled/hud/icons2d/kled_p_cooldown.png"
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kled/hud/icons2d/kled_p_cooldown.png"
             },
             {
                 "spellKey": "q2",
-                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/characters/kled/hud/icons2d/kled_q1.png"
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kled/hud/icons2d/kled_q1.png"
             },
             {
                 "spellKey": "q3",
-                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/characters/kled/hud/icons2d/kled_q2.png"
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kled/hud/icons2d/kled_q2.png"
             },
             {
                 "spellKey": "e2",
-                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/characters/kled/hud/icons2d/kled_e2.png"
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kled/hud/icons2d/kled_e2.png"
             },
             {
                 "spellKey": "e3",
-                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/characters/kled/hud/icons2d/kled_e_grey.png"
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kled/hud/icons2d/kled_e_grey.png"
             },
             {
                 "spellKey": "r2",
-                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/characters/kled/hud/icons2d/kled_r_grey.png"
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/kled/hud/icons2d/kled_r_grey.png"
             }
         ]
     },
