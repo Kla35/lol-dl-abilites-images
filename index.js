@@ -15,7 +15,7 @@ const championPerso = require('./othersabilities.json');
     bar1.start((Object.keys(champions).length*5+countOthersAbilities), 0);
     Object.keys(champions).forEach(async function(k){
         let actualChampion = champions[k];
-        let championName = actualChampion.name;
+        let championName = trimChampionName(actualChampion.name);
         let championData = await getChampionDataById(actualChampion["key"]);
         
         championData.spells.forEach(spell => {
@@ -29,7 +29,7 @@ const championPerso = require('./othersabilities.json');
     });
 
     championPerso.forEach(champion => {
-        let championName = champion.name;
+        let championName = trimChampionName(champion.name);
         champion.spells.forEach(spell => {
             let spellKey = defineSpellKey(spell["spellKey"].toUpperCase());
             let newName = championName+'_'+spellKey+".png";
@@ -39,6 +39,17 @@ const championPerso = require('./othersabilities.json');
 
     // setInterval() check every second if everything is finish
 })();
+
+function trimChampionName(name){
+    
+    let returnStr = name.replace("'","");
+    returnStr = returnStr.replace(".","");
+    returnStr = returnStr.replace("&","");
+    returnStr = returnStr.replace(" ","");
+    returnStr = returnStr.replace(" ","");
+
+    return returnStr;
+}
 
 function defineSpellKey(str){
     //Attention, dans le cas du JSON person, la passive doit être prise en compte
@@ -63,6 +74,10 @@ function defineSpellKey(str){
             return "R_2";
         case "R3":
             return "R_3";
+        case "R4":
+            return "R_4";
+        case "R5":
+            return "R_5";
         case "Q":
             return "A";
         case "W":
