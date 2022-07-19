@@ -465,11 +465,11 @@
         "spells": [
             {
                 "spellKey": "r2",
-                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/gwen/hud/icons2d/gwen_r2.gwen.png"
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/gwen/hud/icons2d/gwen_r2.png"
             },
             {
                 "spellKey": "r3",
-                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/gwen/hud/icons2d/gwen_r3.gwen.png"
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/gwen/hud/icons2d/gwen_r3.png"
             }
         ]
     },
@@ -1069,7 +1069,7 @@
         "spells": [
             {
                 "spellKey": "w2",
-                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/rell/hud/icons2d/rellmount.darksupport.png"
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/rell/hud/icons2d/rellmount.png"
             }
         ]
     },
@@ -1141,31 +1141,31 @@
         "spells": [
             {
                 "spellKey": "style",
-                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/samira/hud/icons2d/samirar1.samira.png"
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/samira/hud/icons2d/samirar1.png"
             },
             {
                 "spellKey": "style_F",
-                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/samira/hud/icons2d/samirar2.samira.png"
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/samira/hud/icons2d/samirar2.png"
             },
             {
                 "spellKey": "style_E",
-                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/samira/hud/icons2d/samirar3.samira.png"
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/samira/hud/icons2d/samirar3.png"
             },
             {
                 "spellKey": "style_D",
-                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/samira/hud/icons2d/samirar4.samira.png"
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/samira/hud/icons2d/samirar4.png"
             },
             {
                 "spellKey": "style_C",
-                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/samira/hud/icons2d/samirar5.samira.png"
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/samira/hud/icons2d/samirar5.png"
             },
             {
                 "spellKey": "style_B",
-                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/samira/hud/icons2d/samirar6.samira.png"
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/samira/hud/icons2d/samirar6.png"
             },
             {
                 "spellKey": "style_A",
-                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/samira/hud/icons2d/samirar7.samira.png"
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/samira/hud/icons2d/samirar7.png"
             },
             {
                 "spellKey": "style_S",
@@ -1193,27 +1193,27 @@
         "spells": [
             {
                 "spellKey": "q2",
-                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/seraphine/hud/icons2d/seraphine_q2.ellipsismage.png"
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/seraphine/hud/icons2d/seraphine_q2.png"
             },
             {
                 "spellKey": "q3",
-                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/seraphine/hud/icons2d/seraphine_q3.ellipsismage.png"
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/seraphine/hud/icons2d/seraphine_q3.png"
             },
             {
                 "spellKey": "w2",
-                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/seraphine/hud/icons2d/seraphine_w2.ellipsismage.png"
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/seraphine/hud/icons2d/seraphine_w2.png"
             },
             {
                 "spellKey": "w3",
-                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/seraphine/hud/icons2d/seraphine_w3.ellipsismage.png"
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/seraphine/hud/icons2d/seraphine_w3.png"
             },
             {
                 "spellKey": "e2",
-                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/seraphine/hud/icons2d/seraphine_e2.ellipsismage.png"
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/seraphine/hud/icons2d/seraphine_e2.png"
             },
             {
                 "spellKey": "e3",
-                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/seraphine/hud/icons2d/seraphine_e3.ellipsismage.png"
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/seraphine/hud/icons2d/seraphine_e3.png"
             }
         ]
     },
@@ -1319,7 +1319,7 @@
         "spells": [
             {
                 "spellKey": "q2",
-                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/taliyah/hud/icons2d/taliyah_q2.png"
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/taliyah/hud/icons2d/taliyah_q2.taliyahupdate.png"
             },
             {
                 "spellKey": "w2",
@@ -1489,11 +1489,11 @@
         "spells": [
             {
                 "spellKey": "q2",
-                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/yone/hud/icons2d/yoneq3.yone.png"
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/yone/hud/icons2d/yoneq3.png"
             },
             {
                 "spellKey": "e2",
-                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/yone/hud/icons2d/yonee2.yone.png"
+                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/yone/hud/icons2d/yonee2.png"
             }
         ]
     },
