@@ -1271,14 +1271,10 @@
         "spells": [
             {
                 "spellKey": "r2",
-                "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/swain/hud/icons2d/swain_r_no_charge.png"
-            },
-            {
-                "spellKey": "r3",
                 "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/swain/hud/icons2d/swain_r2.png"
             },
             {
-                "spellKey": "r4",
+                "spellKey": "r3",
                 "abilityIconPath": "/lol-game-data/assets/ASSETS/characters/swain/hud/icons2d/swain_r2_no_charge.png"
             }
         ]
